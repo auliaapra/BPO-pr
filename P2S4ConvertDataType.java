@@ -1,7 +1,7 @@
 // Aulia Putri Ramadhani
 // Convert Data Type
 
-public class Soal4 {
+public class P2S4ConvertDataType {
     public static short methodOne(long l){
         int i = (int) l;
         return (short)i; 

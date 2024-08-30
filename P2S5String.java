@@ -1,4 +1,4 @@
-public class String {
+public class P2S5String {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

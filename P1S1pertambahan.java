@@ -1,7 +1,7 @@
 
 // Aulia Putri Ramadhani (231511070)
 
-public class Soal1{
+public class P1S1Pertambahan {
     public static void main(String[] args){
         byte angka1 = 125;
         byte angka2 = 6;

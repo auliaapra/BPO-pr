@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Soal1 {
+public class P2S1DataTypeFitting {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

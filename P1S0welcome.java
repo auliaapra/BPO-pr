@@ -1,7 +1,7 @@
 
 // Aulia Putri Ramadhani (231511070)
 
-public class Welcome
+public class P1S0Welcome
 {
     public static void main(String[] args)
     {

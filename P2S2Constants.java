@@ -1,7 +1,7 @@
 // Aulia Putri Ramadhani
 // Constants
 
-// public class Soal2 { 
+// public class P2S2Constants { 
 //     public static void main(String[] args) { 
 //         final double CM_PER_INCH = 2.54; 
 //         double paperWidth = 8.5; 
@@ -12,7 +12,7 @@
 //     } 
 // }
 
-public class Soal2 { 
+public class P2S2Constants { 
     public static final double CM_PER_INCH = 2.54; 
     public static void main(String[] args) {
         double paperWidth = 8.5; 

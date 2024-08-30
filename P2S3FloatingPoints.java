@@ -1,7 +1,7 @@
 // Aulia Putri Ramadhani
 // Floating Point
 
-public class Soal3 {
+public class P2S3FloatingPoints {
     public static void main(String[] args) {
         double x = 92.98; 
         int nx = (int) Math.round(x);
