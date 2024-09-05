@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "P1S0Welcome",
+            "request": "launch",
+            "mainClass": "P1S0Welcome",
+            "projectName": "source-code_89cd8079"
+        },
+        {
+            "type": "java",
+            "name": "P1S1Pertambahan",
+            "request": "launch",
+            "mainClass": "P1S1Pertambahan",
+            "projectName": "source-code_89cd8079"
+        },
+        {
+            "type": "java",
+            "name": "P1S2Conditions",
+            "request": "launch",
+            "mainClass": "P1S2Conditions",
+            "projectName": "source-code_89cd8079"
+        },
+        {
+            "type": "java",
+            "name": "P2S1DataTypeFitting",
+            "request": "launch",
+            "mainClass": "P2S1DataTypeFitting",
+            "projectName": "source-code_89cd8079"
+        },
+        {
+            "type": "java",
+            "name": "P2S2Constants",
+            "request": "launch",
+            "mainClass": "P2S2Constants",
+            "projectName": "source-code_89cd8079"
+        },
+        {
+            "type": "java",
+            "name": "P2S3FloatingPoints",
+            "request": "launch",
+            "mainClass": "P2S3FloatingPoints",
+            "projectName": "source-code_89cd8079"
+        },
+        {
+            "type": "java",
+            "name": "P2S4ConvertDataType",
+            "request": "launch",
+            "mainClass": "P2S4ConvertDataType",
+            "projectName": "source-code_89cd8079"
+        },
+        {
+            "type": "java",
+            "name": "P2S5String",
+            "request": "launch",
+            "mainClass": "P2S5String",
+            "projectName": "source-code_89cd8079"
+        }
+    ]
+}
