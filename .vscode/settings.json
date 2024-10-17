@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "a:\\coolyeah\\Akademik\\smt3\\PBO-pr\\bahan ETS PBO 2024\\bahan ETS PBO 2024\\gson-2.6.2.jar",
+    "a:\\coolyeah\\Akademik\\smt3\\PBO-pr\\bahan ETS PBO 2024\\bahan ETS PBO 2024\\gson-2.8.9.jar"
+  ]
+}
